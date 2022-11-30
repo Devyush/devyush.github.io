@@ -43,6 +43,9 @@ nav ul li a:hover{
 	color: #f9004d;
 	transition: .4s;
 }
+.sert{
+	padding-bottom: 35px;
+}
 .btn{
 	background-color:#f9004d;
 	color: white;
